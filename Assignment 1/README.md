@@ -8,4 +8,4 @@ Neural Network with 1 hidden layer for MNIST.
 * Further instructions will be added later.
 
 ## Deadline
-26th of May, 2023
+28th of May, 2023
