@@ -8,4 +8,4 @@ Neural Network for MNIST in PyTorch.
 * We suggest you to use Google Colab, since it is very handy.
 
 ## Deadline
-12 June 2023
+20 June 2023
